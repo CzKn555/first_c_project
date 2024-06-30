@@ -1,1 +1,2 @@
-# first_c_project
+firstProgram
+"Hello World"
